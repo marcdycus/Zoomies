@@ -1,3 +1,6 @@
-import Group from './Group';
+import Bookmark from './Bookmark';
+import BookmarkFilled from './BookmarkFilled';
+import Comment from './Comment';
+import CommentFilled from './CommentFilled';
 
-export { Group };
+export { Bookmark, BookmarkFilled, Comment, CommentFilled };
